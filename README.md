@@ -35,7 +35,7 @@ O objetivo principal deste projeto foi aplicar os conceitos fundamentais de HTML
 
 Veja abaixo uma captura de como o cartão de apresentação pode se parecer:
 
-![Cartão de Apresentação](caminho-para-imagem-de-preview.png)
+![Cartão de Apresentação](./images/tela_devlinks.png)
 
 ## ✨ Melhorias Possíveis
 
