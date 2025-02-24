@@ -9,11 +9,11 @@ O objetivo principal deste projeto foi aplicar os conceitos fundamentais de HTML
 ## 🚀 Funcionalidades
 
 - **Imagem de Perfil** (Avatar) centralizada.
-- **Nome Completo** e **Profissão** destacados.
-- **Breve Descrição** sobre o profissional.
+- **Nome Completo** destacado.
+- **Breve Descrição** texto de referência do profissional.
 - **Links para Redes Sociais** ícones clicáveis, direcionando para as redes sociais.
 - **Design Responsivo** para diferentes dispositivos.
-- **Efeitos de Hover** nos ícones de redes sociais.
+- **Efeitos de Hover** nas caixas das redes sociais.
 - **Estilo Clean e Minimalista** com foco nas informações principais.
 
 ## 🛠 Tecnologias Utilizadas
@@ -35,11 +35,9 @@ O objetivo principal deste projeto foi aplicar os conceitos fundamentais de HTML
 
 Veja abaixo uma captura de como o cartão de apresentação pode se parecer:
 
-![Cartão de Apresentação](./images/tela_devlinks.png)
-
-## ✨ Melhorias Possíveis
-
-- Integrar o projeto com um formulário de contato.
+<p align="center">
+  <img src="./images/tela_devlinks.png" alt="Dev - Links" />
+</p>
 
 ## 📜 Licença
 
