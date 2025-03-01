@@ -36,7 +36,7 @@ O objetivo principal deste projeto foi aplicar os conceitos fundamentais de HTML
 Veja abaixo uma captura de como o cartão de apresentação pode se parecer:
 
 <p align="center">
-  <img src="./images/tela_app.png" alt="Dev - Links" />
+  <img src="./images/tela_app_white.png" alt="Dev - Links" />
 </p>
 
 ## 📜 Licença
