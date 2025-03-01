@@ -19,7 +19,7 @@
 .texto-destaque {
     font-size: 16px;
     font-weight: 350;
-    margin-top: 10px;
+    margin-top: 5px;
     line-height: 130%;
     padding: 0px 15px;
     text-align: center;
@@ -52,7 +52,6 @@
     height: 500px;
     background-color: #fff;
     border-radius: 5px;
-    box-shadow: 1px 1px 20px white;
 }
 
 .imagem-perfil {
@@ -66,7 +65,7 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    width: 300px;
+    width: 280px;
     height: 40px;
     margin: 10px 0px;
     text-decoration: none;
@@ -98,4 +97,21 @@
 
 #github {
     background-color: #000000;
+}
+
+
+#instagram:hover {
+    background-color: #fd3599;
+}
+
+#whatsapp:hover {
+    background-color: #45bb3b;
+}
+
+#linkedin:hover {
+    background-color: #0989c9;
+}
+
+#github:hover {
+    background-color: #1a1a1a;
 }
